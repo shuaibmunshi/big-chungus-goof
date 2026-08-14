@@ -1,7 +1,7 @@
-# big-chungus-goof
+# **Intentionally vulnerable. Do not deploy. Do not publish.**
 
 Test fixture for generating variable sized vulnerable packages.
-**Intentionally vulnerable. Do not deploy. Do not publish.**
+
 
 ## What is in here
 
