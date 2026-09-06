@@ -48,7 +48,7 @@
     "nodemailer": "4.0.1",
     "passport": "0.4.0",
     "pg": "7.3.0",
-    "qs": "6.3.0",
+    "qs": "6.16.0",
     "redis": "2.8.0",
     "request": "2.81.0",
     "sanitize-html": "1.19.0",
