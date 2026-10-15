@@ -14,7 +14,7 @@
     "gen:manifest": "node scripts/generate-package-json.js"
   },
   "dependencies": {
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.6.1",
     "ansi-regex": "3.0.0",
     "async": "2.6.0",
     "axios": "0.18.0",
