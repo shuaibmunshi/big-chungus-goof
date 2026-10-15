@@ -54,7 +54,7 @@
     "sanitize-html": "1.19.0",
     "serialize-javascript": "1.4.0",
     "shell-quote": "1.6.1",
-    "tar": "4.4.0",
+    "tar": "7.5.21",
     "tough-cookie": "2.3.3",
     "underscore": "1.12.0",
     "validator": "5.7.0",
