@@ -19,7 +19,7 @@
     "async": "2.6.0",
     "axios": "0.18.0",
     "body-parser": "1.18.0",
-    "braces": "2.3.0",
+    "braces": "3.0.3",
     "cookie-parser": "1.4.3",
     "debug": "2.6.8",
     "decode-uri-component": "0.2.0",
